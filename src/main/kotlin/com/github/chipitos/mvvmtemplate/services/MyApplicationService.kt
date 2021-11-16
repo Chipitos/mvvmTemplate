@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.chipitos.mvvmtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.chipitos.mvvmtemplate.MyBundle
 
 class MyApplicationService {
 
